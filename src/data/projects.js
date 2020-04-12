@@ -1,6 +1,7 @@
 import project1 from '../assets/project1.png';
 import project2 from '../assets/project2.png';
 import project3 from '../assets/project3.png';
+import project4 from '../assets/project4.png';
 import giticon from '../assets/project-link.png';
 
 const PROJECTS = [
@@ -8,7 +9,7 @@ const PROJECTS = [
         id: 1,
         title: 'React PortFolio',
         description: 'A react application descrition',
-        link: 'https://github.com/RaulAbejonDelgado/',
+        link: 'https://github.com/RaulAbejonDelgado/React',
         image: project1,
         source: giticon
 
@@ -29,6 +30,14 @@ const PROJECTS = [
         image: project3,
         source: giticon
     },
+    {
+        id: 4,
+        title: 'Angular',
+        description: 'Angular pwa',
+        link: 'https://raulabejondelgado.github.io/myapp/#/login',
+        image: project4,
+        source: giticon
+    }
 ];
 
 export default PROJECTS;

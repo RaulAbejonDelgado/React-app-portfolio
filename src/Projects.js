@@ -11,7 +11,7 @@ class Project extends Component {
         // const image = this.props.project.image;
 
         return (
-            <div style={{display: 'inline-block', width: 350, margin: 10}}>
+            <div style={{display: 'inline-block', width: 250, margin: 10}}>
             <h3>{title}</h3>
             <img src={image} alt="profile"  style={{width: 200, height: 200} } />
             <p>{description}</p>
@@ -28,11 +28,6 @@ class Projects extends Component {
                 <h2>
                     Projects
                 </h2>
-                <div>
-                    <div>{PROJECTS[0].title}</div>
-                    <div>{PROJECTS[1].title}</div>
-                    <div>{PROJECTS[2].title}</div>
-                </div>
                 <hr/>
                 <div>
                     {
