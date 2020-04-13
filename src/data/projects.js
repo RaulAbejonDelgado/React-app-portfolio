@@ -42,7 +42,7 @@ const PROJECTS = [
     {
         id: 5,
         title: 'Spring framework 5',
-        description: 'Deployed on heroku',
+        description: 'Deployed on heroku(admin -> admin admin - user -> drohne drohne)',
         link: 'https://spring-framework-5-app.herokuapp.com/',
         image: project5,
         source: giticon
