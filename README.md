@@ -78,4 +78,13 @@ npm i @babel/plugin-proposal-class-properties@7.2.3 --save
 
 npm i live-server@1.2.1 --save
 
+npm i react-router-dom@4.3.1 --save
+npm i history@4.7.2 --save
+
 npm run start
+
+### solve cors origin problem usin a proxy*/
+
+https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
+
+

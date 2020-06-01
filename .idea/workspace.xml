@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01ed607d-6194-4a1b-8ea6-d1d3321d9062" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.cache/02/2439108b9a799b6dd156968f36bf87.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/05/0353f08b43d3ae2ea47ac53bdac8f1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/06/8f3dbe56e9a87e95444ff1adbce24b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0c/08bd9e94193bf1c1d8a734950675e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/0d/7dca43b9b6d024b1171eb7313280a9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/16/0cf00855ebbe08af6abf7f36003621.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/18/4d98c22b53acdfc2e017b1d5ae5b67.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/29/85748c863c6520d83f5284977a0d32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/29/b3ecc73fac545d562ec64b1211eddd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2c/b454ffa5d71628e03de790a1963bce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/35/51c4279e5ad5c726ccc96e358ccd3b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/37/3ce7c33b7e7e8ecc7aa00d80c92fee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/43/ab5b2a1c3212b6f4da89269ef77509.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/44/2d0e50f63c303f189f9a96a53fa603.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4b/5cad2b91b2d911308ec6d6da14956b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/55/bce13f3ab796bab084cf83ced1a429.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5e/8ed3883e6aa5189b1f269358298c1a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/64/537315c05e46132be9d73db1443615.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/73/9656efc7f0f4a420ead2c2166e9192.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/77/dc4e1a98608b381c96cd93fdd92440.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/78/a5cc5cb6ca145f694663125bf0c138.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/79/97568d756be9fae79378a06e1be916.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7a/35cb04f6b73a772ef39968ca36858a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7b/fd2daddc69c9494ee1ece430ed0f79.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7c/7cbd4b085d0f5e5806ef81a2550f88.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/89/b3a068b228f17a55ad7b370bfb78bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8c/654be4f2ceb4ddf124bf42aaddbbb7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8f/1aa0f32e1c039a867f30b5f30be1f4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/91/1a0b1177e173190d8029b8e88d0028.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/96/a0229e366dc4a5ba44c2e0108110d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/97/42b6784d363bac6b80334f9ada059d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a1/7422a763402d65af0b92f71b861a1c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a2/94480c1d1926118cac34b04761cdb6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ad/3267c8931298dae67fcf0ad98c0219.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b2/50f03ddaf571fd5ff2a13321da3c8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b6/682e262b5125777d2eb1e9b19b1f52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b6/f5298f497b24fec2d4b2d1a39a5e85.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ba/53b96c473a6bf32ea5ea34921a34a9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/bd/51c405e86d5ceca22031e559f4e818.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/be/c55c790f5197f718ddb3129bc7104d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c2/b531b9e5a89f9184417527750f7a29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c6/e9fb07712c7057bc876da0416ef6ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ca/088a857ab6270f4b23c931b2e14f98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/cd/8c42339a33f75a930eb771fd6ee3b2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ce/5154dd99e4d3122d4cd387f1048b2d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d0/81d848d91f041957432e932ad1b3df.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d8/9fa0598ad7ff62860561dedb25acce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e2/2a9c7e19c0481f378777d198cd8d98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e6/eb750ad9e3c06ca35704414e9c88e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/eb/4703537c419d9a2199be09f80f6417.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f0/719ca09be7a27cf7a8c0458a3fbd2d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f5/bafcf5300f694a6a605ccc4958c5c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fb/7c85a64730d4ef123986411b87f731.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/profile.a804958e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/profile.ae7bce2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project-link.280e3e37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project-link.3efb0486.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project1.0e13da1c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project1.75fb5288.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project2.45026433.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project2.d48872d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project3.4c2f527d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/project3.592b562e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social1.21f4d6df.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social1.52ae33db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social2.6c6d50ec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social2.8242dc86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social3.bf6ed932.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/social3.da5505a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.5a2386b9.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.64090ef2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.6bc1a228.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.e31bb0bc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.e31bb0bc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src.e31bb0bc.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SocialProfiles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/project4.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="379" />
+    <option name="width" value="1297" />
+    <option name="height" value="635" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586765957429" />
+    <property name="last_opened_file_path" value="$USER_HOME$/spring-cloud-data-flow" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Descargas/scalaRestExample/scalatra/scalarestwebapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Descargas/scalatra-in-action-master/chapter01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Descargas/scalatra.g8-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/akka-distributed-workers-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/akka-http-react-starter-app-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/scalatra-sample-app-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/slick-testkit-example-3.1" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala_projects/scala-master/swagger-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ed607d-6194-4a1b-8ea6-d1d3321d9062" name="Default Changelist" comment="" />
+      <created>1586710113021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586710113021</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1586710764536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586710764536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="github pages test">
+      <created>1586727691106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586727691106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="github pages test">
+      <created>1586729264283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729264283</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Some modification test refreh">
+      <created>1586730421829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586730421829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update image">
+      <created>1586730603675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586730603675</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spring img">
+      <created>1586731719821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586731719821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="heroku">
+      <created>1586765947978</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586765947978</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="278" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18565737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31782946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4775194" />
+      <window_info anchor="bottom" id="Sequence" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SonarQube" order="11" weight="0.32868218" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32868218" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32868218" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.12430279" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="JSON Viewer" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="github pages test" />
+    <MESSAGE value="Some modification test refreh" />
+    <MESSAGE value="Update image" />
+    <MESSAGE value="Spring img" />
+    <MESSAGE value="heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/src.e31bb0bc.js" />
+    <entry file="file://$PROJECT_DIR$/docs/src.e31bb0bc.map" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/project4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
